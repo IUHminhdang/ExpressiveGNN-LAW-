@@ -1,0 +1,9 @@
+article:r1	belongsToSubject	subject:s1:S
+article:r1	belongsToTopic	topic:t1:T
+article:r1	belongsToChapter	chapter:s1:t1:C
+article:r1	hasSource	sourcearticle:vbpl.vn%2Fa%3FItemID%3D1%23Dieu_1
+sourcearticle:vbpl.vn%2Fa%3FItemID%3D1%23Dieu_1	sourceArticleOf	sourcedocument:Lu%E1%BA%ADt%20A%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B
+article:r2	belongsToSubject	subject:s2:S2
+article:r2	belongsToTopic	topic:t2:T2
+article:r2	belongsToChapter	chapter:s2:t2:C
+article:r2	hasSource	sourcearticle:vbpl.vn%2Fa%3FItemID%3D2%23Dieu_1

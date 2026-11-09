@@ -1,0 +1,81 @@
+{
+  "records": 12,
+  "entities": 12,
+  "facts": 12,
+  "official_export_facts": 12,
+  "excluded_official_predicates": [
+    "amendedBy",
+    "repealedBy",
+    "supplementedBy"
+  ],
+  "unresolved": 0,
+  "entities_by_type": {
+    "Article": 12
+  },
+  "facts_by_predicate": {
+    "relatedTo": 12
+  },
+  "official_facts_by_predicate": {
+    "relatedTo": 12
+  },
+  "splits": {
+    "background": 0,
+    "train": 10,
+    "valid": 1,
+    "test": 1
+  },
+  "split_ratios": {
+    "background": 0.0,
+    "train": 0.8333333333333334,
+    "valid": 0.08333333333333333,
+    "test": 0.08333333333333333
+  },
+  "target_split_ratios": {
+    "train": 0.8333333333333334,
+    "valid": 0.08333333333333333,
+    "test": 0.08333333333333333
+  },
+  "evaluation": {
+    "target_relation": "relatedTo",
+    "test_query_count": 1,
+    "article_candidate_count": 12,
+    "candidate_directions_per_query": 2,
+    "negative_samples_are_pipeline_only": true
+  },
+  "seed": 42,
+  "target_relation": "relatedTo",
+  "directionality": "relatedTo is an observed content-relatedness relation; no inverse or symmetry facts are generated.",
+  "predicate_meanings": {
+    "belongsToTopic": "Article is classified under Topic.",
+    "belongsToSubject": "Article belongs to Subject.",
+    "belongsToChapter": "Article is contained in Chapter.",
+    "relatedTo": "Article is explicitly marked as content-related to another Article; this is not assumed to be a citation or symmetric relation.",
+    "hasSource": "Article is associated with a SourceArticle instrument/reference.",
+    "sourceArticleOf": "SourceArticle is a source instrument/reference described by SourceDocument.",
+    "amendedBy": "SourceArticle annotation indicates modification by another source.",
+    "supplementedBy": "SourceArticle annotation indicates supplementation by another source.",
+    "repealedBy": "SourceArticle annotation indicates repeal by another source."
+  },
+  "citation_resolution": {
+    "missing_record_ids": 0,
+    "duplicate_record_ids": 0,
+    "citations_extracted": 12,
+    "citations_resolved": 12,
+    "citations_ambiguous": 0,
+    "citations_unresolved": 0,
+    "citation_resolution_rate": 1.0,
+    "citation_formats": {
+      "simple": 12
+    }
+  },
+  "export_contract": {
+    "facts_file": "background predicates only",
+    "train_file": "relatedTo positives only",
+    "valid_file": "relatedTo positives only",
+    "test_file": "relatedTo positives only",
+    "rule_heads": [
+      "relatedTo",
+      "relatedTo"
+    ]
+  }
+}

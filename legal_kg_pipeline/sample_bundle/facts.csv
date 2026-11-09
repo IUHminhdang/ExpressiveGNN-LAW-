@@ -1,0 +1,13 @@
+fact_id,subject,predicate,object,source_record_id,confidence
+055e62712fb4780e,article:r2,belongsToSubject,subject:s1:B%E1%BB%99%20lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1,r2,1.0
+3752d25db0d5092c,article:r2,belongsToTopic,topic:t1:D%C3%A2n%20s%E1%BB%B1,r2,1.0
+083834c8f325ee9f,article:r2,belongsToChapter,chapter:s1:t1:Ch%C6%B0%C6%A1ng%20I,r2,1.0
+5f0bdb665e5bc37a,article:r2,hasSource,sourcearticle:vbpl.vn%2Fitem%3Fid%3D2,r2,1.0
+45fb74e7ca0bf606,sourcearticle:vbpl.vn%2Fitem%3Fid%3D2,sourceArticleOf,sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,r2,1.0
+d90bb4bb2714d7ad,article:r2,relatedTo,article:r1,r2,0.8
+e5c65a637ab6fd23,sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,amendedBy,sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,r2,0.7
+f745ffbc1d11c933,article:r1,belongsToSubject,subject:s1:B%E1%BB%99%20lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1,r1,1.0
+c3ddf8c50064977d,article:r1,belongsToTopic,topic:t1:D%C3%A2n%20s%E1%BB%B1,r1,1.0
+4de955f99ddeaccd,article:r1,belongsToChapter,chapter:s1:t1:Ch%C6%B0%C6%A1ng%20I,r1,1.0
+0459279c260c622e,article:r1,hasSource,sourcearticle:vbpl.vn%2Fitem%3Fid%3D1,r1,1.0
+ed75a15623d953c2,sourcearticle:vbpl.vn%2Fitem%3Fid%3D1,sourceArticleOf,sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020,r1,1.0

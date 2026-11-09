@@ -1,0 +1,10 @@
+{
+  "baseline": "training relatedTo degree popularity",
+  "candidate_count": 926,
+  "train_queries": 89,
+  "validation_queries": 11,
+  "test_queries": 11,
+  "directional_queries": 22,
+  "mrr": 0.20649053095846479,
+  "hits_at_10": 0.22727272727272727
+}

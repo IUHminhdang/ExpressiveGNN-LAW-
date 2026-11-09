@@ -1,0 +1,2 @@
+article:smoke-11	relatedTo	article:smoke-10
+article:smoke-23	relatedTo	article:smoke-22

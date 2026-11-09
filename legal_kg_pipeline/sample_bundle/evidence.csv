@@ -1,0 +1,13 @@
+fact_id,source_record_id,field,original_text,evidence_type
+055e62712fb4780e,r2,subject_title,Bộ luật dân sự,extracted
+3752d25db0d5092c,r2,topic_title,Dân sự,extracted
+083834c8f325ee9f,r2,chapter_title,Chương I,extracted
+5f0bdb665e5bc37a,r2,source_links,https://vbpl.vn/item?id=2 Luật mẫu 01/2020 được sửa đổi bởi Luật mẫu 02/2021,extracted
+45fb74e7ca0bf606,r2,source_links,https://vbpl.vn/item?id=2 Luật mẫu 01/2020 được sửa đổi bởi Luật mẫu 02/2021,extracted
+d90bb4bb2714d7ad,r2,related_note_text,Điều 1,extracted
+e5c65a637ab6fd23,r2,source_note_text,Luật mẫu 02/2021,extracted
+f745ffbc1d11c933,r1,subject_title,Bộ luật dân sự,extracted
+c3ddf8c50064977d,r1,topic_title,Dân sự,extracted
+4de955f99ddeaccd,r1,chapter_title,Chương I,extracted
+0459279c260c622e,r1,source_links,https://vbpl.vn/item?id=1 Luật mẫu 01/2020,extracted
+ed75a15623d953c2,r1,source_links,https://vbpl.vn/item?id=1 Luật mẫu 01/2020,extracted

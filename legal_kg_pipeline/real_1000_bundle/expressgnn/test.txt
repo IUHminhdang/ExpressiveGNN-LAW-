@@ -1,0 +1,10 @@
+article:70d2efc153fc2140	relatedTo	article:f58547be3ceec387
+article:a93a65de1cf19b87	relatedTo	article:e4ac5cbb686bab43
+article:e4ac5cbb686bab43	relatedTo	article:a93a65de1cf19b87
+article:a80785307a7ec783	relatedTo	article:230bb705b3597e9e
+article:230bb705b3597e9e	relatedTo	article:a80785307a7ec783
+article:1fc237e57d95aeac	relatedTo	article:c29022a034bf98f5
+article:c29022a034bf98f5	relatedTo	article:1fc237e57d95aeac
+article:b7be180747fde634	relatedTo	article:6c8ba5317840ad5b
+article:c273c50a85175e34	relatedTo	article:e4ac5cbb686bab43
+article:e4ac5cbb686bab43	relatedTo	article:c273c50a85175e34

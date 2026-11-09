@@ -1,0 +1,14 @@
+entity_id,entity_type,label,source_record_id
+article:r1,Article,r1,r1
+subject:s1:S,Subject,s1:S,r1
+topic:t1:T,Topic,t1:T,r1
+chapter:s1:t1:C,Chapter,s1:t1:C,r1
+sourcearticle:vbpl.vn%2Fa%3FItemID%3D1%23Dieu_1,SourceArticle,vbpl.vn/a?ItemID=1#Dieu_1,r1
+sourcedocument:Lu%E1%BA%ADt%20A%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B,SourceDocument,Luật A được sửa đổi bởi Điều 3 Thông tư B,r1
+sourcearticle:%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B,SourceArticle,Điều 3 Thông tư B,r1
+sourcearticle:Lu%E1%BA%ADt%20A%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B,SourceArticle,Luật A được sửa đổi bởi Điều 3 Thông tư B,r1
+article:r2,Article,r2,r2
+subject:s2:S2,Subject,s2:S2,r2
+topic:t2:T2,Topic,t2:T2,r2
+chapter:s2:t2:C,Chapter,s2:t2:C,r2
+sourcearticle:vbpl.vn%2Fa%3FItemID%3D2%23Dieu_1,SourceArticle,vbpl.vn/a?ItemID=2#Dieu_1,r2

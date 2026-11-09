@@ -1,0 +1,34 @@
+WARNING: set load_method to 1 if you load Freebase dataset, otherwise 0
+rule weights set to pre-defined values, learning weights
+
+preparing data for M-step...
+observed: 76, hidden: 999924
+
+  0%|          | 0/2 [00:00<?, ?it/s]
+ 50%|#####     | 1/2 [00:00<00:00,  7.58it/s]
+Epoch 0, train loss: -0.5971, lr: 0.0005:  50%|#####     | 1/2 [00:00<00:00,  7.58it/s]
+Epoch 0, train loss: -0.3589, lr: 0.0005: 100%|##########| 2/2 [00:00<00:00,  7.58it/s]
+Epoch 0, train loss: -0.3589, lr: 0.0005: : 3it [00:00, 10.96it/s]                     
+Epoch 0, train loss: -0.4572, lr: 0.0005: : 3it [00:00, 10.96it/s]
+Epoch 0, train loss: -0.4572, lr: 0.0005: : 3it [00:20, 10.96it/s]
+Epoch 0, train loss: -0.4572, lr: 0.0005: : 3it [00:21,  7.01s/it]
+tensor(-56.1973) tensor(-39.9962) Epoch 0, valid loss: -0.7096
+Early stopping
+
+  0%|          | 0/10 [00:00<?, ?it/s]
+                                      
+
+  0%|          | 0/10 [00:00<?, ?it/s]
+ 60%|######    | 6/10 [00:00<00:00, 54.09it/s]
+                                              
+
+100%|##########| 10/10 [00:00<00:00, 54.09it/s]
+                                               
+
+100%|##########| 10/10 [00:00<00:00, 54.09it/s]
+100%|##########| 10/10 [00:00<00:00, 53.50it/s]
+********** Evaluation **********
+mmr 0.4267
+
+hits 0.6000
+

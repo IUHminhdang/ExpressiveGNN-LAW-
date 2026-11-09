@@ -1,0 +1,1 @@
+article:r2	relatedTo	article:r1

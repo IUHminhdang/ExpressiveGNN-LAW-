@@ -1,0 +1,65 @@
+{
+  "records": 2,
+  "entities": 11,
+  "facts": 12,
+  "unresolved": 0,
+  "entities_by_type": {
+    "Article": 2,
+    "Subject": 1,
+    "Topic": 1,
+    "Chapter": 1,
+    "SourceArticle": 4,
+    "SourceDocument": 2
+  },
+  "facts_by_predicate": {
+    "belongsToSubject": 2,
+    "belongsToTopic": 2,
+    "belongsToChapter": 2,
+    "hasSource": 2,
+    "sourceArticleOf": 2,
+    "relatedTo": 1,
+    "amendedBy": 1
+  },
+  "splits": {
+    "background": 11,
+    "train": 1,
+    "valid": 0,
+    "test": 0
+  },
+  "seed": 42,
+  "target_relation": "relatedTo",
+  "directionality": "relatedTo is an observed content-relatedness relation; no inverse or symmetry facts are generated.",
+  "predicate_meanings": {
+    "belongsToTopic": "Article is classified under Topic.",
+    "belongsToSubject": "Article belongs to Subject.",
+    "belongsToChapter": "Article is contained in Chapter.",
+    "relatedTo": "Article is explicitly marked as content-related to another Article; this is not assumed to be a citation or symmetric relation.",
+    "hasSource": "Article is associated with a SourceArticle instrument/reference.",
+    "sourceArticleOf": "SourceArticle is a source instrument/reference described by SourceDocument.",
+    "amendedBy": "SourceArticle annotation indicates modification by another source.",
+    "supplementedBy": "SourceArticle annotation indicates supplementation by another source.",
+    "repealedBy": "SourceArticle annotation indicates repeal by another source."
+  },
+  "citation_resolution": {
+    "missing_record_ids": 0,
+    "duplicate_record_ids": 0,
+    "citations_extracted": 1,
+    "citations_resolved": 1,
+    "citations_ambiguous": 0,
+    "citations_unresolved": 0,
+    "citation_resolution_rate": 1.0,
+    "citation_formats": {
+      "simple": 1
+    }
+  },
+  "export_contract": {
+    "facts_file": "background predicates only",
+    "train_file": "relatedTo positives only",
+    "valid_file": "relatedTo positives only",
+    "test_file": "relatedTo positives only",
+    "rule_heads": [
+      "relatedTo",
+      "relatedTo"
+    ]
+  }
+}

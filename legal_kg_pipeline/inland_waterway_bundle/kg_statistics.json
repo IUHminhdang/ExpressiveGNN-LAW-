@@ -1,0 +1,100 @@
+{
+  "records": 926,
+  "entities": 2945,
+  "facts": 5142,
+  "official_export_facts": 4973,
+  "excluded_official_predicates": [
+    "amendedBy",
+    "repealedBy",
+    "supplementedBy"
+  ],
+  "unresolved": 193,
+  "entities_by_type": {
+    "Article": 926,
+    "Subject": 1,
+    "Topic": 1,
+    "Chapter": 12,
+    "SourceArticle": 1079,
+    "SourceDocument": 926
+  },
+  "facts_by_predicate": {
+    "belongsToSubject": 926,
+    "belongsToTopic": 926,
+    "belongsToChapter": 926,
+    "hasSource": 1042,
+    "sourceArticleOf": 1042,
+    "amendedBy": 87,
+    "supplementedBy": 68,
+    "repealedBy": 14,
+    "relatedTo": 111
+  },
+  "official_facts_by_predicate": {
+    "belongsToSubject": 926,
+    "belongsToTopic": 926,
+    "belongsToChapter": 926,
+    "hasSource": 1042,
+    "sourceArticleOf": 1042,
+    "relatedTo": 111
+  },
+  "splits": {
+    "background": 4862,
+    "train": 89,
+    "valid": 11,
+    "test": 11
+  },
+  "split_ratios": {
+    "background": 0.9455464799688837,
+    "train": 0.017308440295604823,
+    "valid": 0.0021392454297938547,
+    "test": 0.0021392454297938547
+  },
+  "target_split_ratios": {
+    "train": 0.8018018018018018,
+    "valid": 0.0990990990990991,
+    "test": 0.0990990990990991
+  },
+  "evaluation": {
+    "target_relation": "relatedTo",
+    "test_query_count": 11,
+    "article_candidate_count": 926,
+    "candidate_directions_per_query": 2,
+    "negative_samples_are_pipeline_only": true
+  },
+  "seed": 42,
+  "target_relation": "relatedTo",
+  "directionality": "relatedTo is an observed content-relatedness relation; no inverse or symmetry facts are generated.",
+  "predicate_meanings": {
+    "belongsToTopic": "Article is classified under Topic.",
+    "belongsToSubject": "Article belongs to Subject.",
+    "belongsToChapter": "Article is contained in Chapter.",
+    "relatedTo": "Article is explicitly marked as content-related to another Article; this is not assumed to be a citation or symmetric relation.",
+    "hasSource": "Article is associated with a SourceArticle instrument/reference.",
+    "sourceArticleOf": "SourceArticle is a source instrument/reference described by SourceDocument.",
+    "amendedBy": "SourceArticle annotation indicates modification by another source.",
+    "supplementedBy": "SourceArticle annotation indicates supplementation by another source.",
+    "repealedBy": "SourceArticle annotation indicates repeal by another source."
+  },
+  "citation_resolution": {
+    "missing_record_ids": 0,
+    "duplicate_record_ids": 0,
+    "citations_extracted": 304,
+    "citations_resolved": 111,
+    "citations_ambiguous": 0,
+    "citations_unresolved": 193,
+    "citation_resolution_rate": 0.3651315789473684,
+    "citation_formats": {
+      "compound": 265,
+      "simple": 39
+    }
+  },
+  "export_contract": {
+    "facts_file": "background predicates only",
+    "train_file": "relatedTo positives only",
+    "valid_file": "relatedTo positives only",
+    "test_file": "relatedTo positives only",
+    "rule_heads": [
+      "relatedTo",
+      "relatedTo"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+plain params count: 4224
+posterior params count: 18948672
+Total params count: 18952896

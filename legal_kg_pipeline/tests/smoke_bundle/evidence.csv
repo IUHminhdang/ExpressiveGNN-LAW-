@@ -1,0 +1,120 @@
+fact_id,source_record_id,field,original_text,evidence_type
+453e4bd089a1a822,smoke-0,subject_title,Subject,extracted
+a42284be64b199f8,smoke-0,topic_title,Topic,extracted
+90f77b30d8f1900a,smoke-0,chapter_title,Chapter,extracted
+067d0582e0e28420,smoke-1,subject_title,Subject,extracted
+69a12023e4441fd5,smoke-1,topic_title,Topic,extracted
+b9f219ee0b2965a1,smoke-1,chapter_title,Chapter,extracted
+b820e3bdf60b1984,smoke-1,related_note_text,dieu 0,extracted
+9dd38ad38763171c,smoke-2,subject_title,Subject,extracted
+8b74cac509c02837,smoke-2,topic_title,Topic,extracted
+fc954367824be5d8,smoke-2,chapter_title,Chapter,extracted
+80978cecc2b93147,smoke-2,related_note_text,dieu 1,extracted
+26b7d1bd0541a21b,smoke-3,subject_title,Subject,extracted
+75e5d79e524f94ca,smoke-3,topic_title,Topic,extracted
+f168adb91148dbc0,smoke-3,chapter_title,Chapter,extracted
+d26b00f791c07786,smoke-3,related_note_text,dieu 2,extracted
+262320064308452e,smoke-4,subject_title,Subject,extracted
+90630e7776f97215,smoke-4,topic_title,Topic,extracted
+76a84511566a6d1d,smoke-4,chapter_title,Chapter,extracted
+7a929f1557f5e99d,smoke-4,related_note_text,dieu 3,extracted
+9bf4ba5c734f92ac,smoke-5,subject_title,Subject,extracted
+a4cce9ac9f807182,smoke-5,topic_title,Topic,extracted
+0273cd2c420fa8a8,smoke-5,chapter_title,Chapter,extracted
+2ce9bcd1bbc516e8,smoke-5,related_note_text,dieu 4,extracted
+0054ad6807a1bfb4,smoke-6,subject_title,Subject,extracted
+5cb6f4ebcab00f58,smoke-6,topic_title,Topic,extracted
+0a8d91e2d0f732e3,smoke-6,chapter_title,Chapter,extracted
+8e8913325170aed0,smoke-6,related_note_text,dieu 5,extracted
+9050bade5ef848a3,smoke-7,subject_title,Subject,extracted
+56d08c4d43c1a527,smoke-7,topic_title,Topic,extracted
+338f39a91bcea001,smoke-7,chapter_title,Chapter,extracted
+fc2dc61ca8ee53c3,smoke-7,related_note_text,dieu 6,extracted
+8788c2e6fb4a0491,smoke-8,subject_title,Subject,extracted
+f4822d15adb07607,smoke-8,topic_title,Topic,extracted
+5e224f6c04444ba4,smoke-8,chapter_title,Chapter,extracted
+652b4ce669e6625d,smoke-8,related_note_text,dieu 7,extracted
+d321cbaa557843de,smoke-9,subject_title,Subject,extracted
+760431775bff4575,smoke-9,topic_title,Topic,extracted
+e808b9fc7d8fb0ac,smoke-9,chapter_title,Chapter,extracted
+6cde6bb358a889a6,smoke-9,related_note_text,dieu 8,extracted
+c2bda854a1c9d33e,smoke-10,subject_title,Subject,extracted
+88857750a0a08239,smoke-10,topic_title,Topic,extracted
+0c1e9b7b01765f89,smoke-10,chapter_title,Chapter,extracted
+2b45bb9618a532cd,smoke-10,related_note_text,dieu 9,extracted
+0b7ce734ccac25df,smoke-11,subject_title,Subject,extracted
+9cd7f39c0007038b,smoke-11,topic_title,Topic,extracted
+8ae8898df7548a22,smoke-11,chapter_title,Chapter,extracted
+3bcb0baf2cfbecdf,smoke-11,related_note_text,dieu 10,extracted
+c5967a348825be84,smoke-12,subject_title,Subject,extracted
+7e8f9f4d88af0340,smoke-12,topic_title,Topic,extracted
+43cdae81235812d6,smoke-12,chapter_title,Chapter,extracted
+5d5dca93c25d9273,smoke-12,related_note_text,dieu 11,extracted
+09c70e4b70a050de,smoke-13,subject_title,Subject,extracted
+383b9ae1b5d95d0b,smoke-13,topic_title,Topic,extracted
+47a3b7993cdc39e2,smoke-13,chapter_title,Chapter,extracted
+5f79d8d2a8e22562,smoke-13,related_note_text,dieu 12,extracted
+4112f76f865fc665,smoke-14,subject_title,Subject,extracted
+7343cb1a50848c2f,smoke-14,topic_title,Topic,extracted
+dbe3805850615792,smoke-14,chapter_title,Chapter,extracted
+f076d67c3a118d3a,smoke-14,related_note_text,dieu 13,extracted
+a97533641ce94c3f,smoke-15,subject_title,Subject,extracted
+53ac73a55430a58b,smoke-15,topic_title,Topic,extracted
+e7c3831cde636bc9,smoke-15,chapter_title,Chapter,extracted
+3f896d2e8782d6fb,smoke-15,related_note_text,dieu 14,extracted
+209456e035ffaf1d,smoke-16,subject_title,Subject,extracted
+c234dbf8916139a8,smoke-16,topic_title,Topic,extracted
+2a9abf0b36715628,smoke-16,chapter_title,Chapter,extracted
+1fa03b9b81d835e2,smoke-16,related_note_text,dieu 15,extracted
+c72c41686c295ccd,smoke-17,subject_title,Subject,extracted
+525771661caf4e8f,smoke-17,topic_title,Topic,extracted
+e177339aeb4d788f,smoke-17,chapter_title,Chapter,extracted
+75521b105227eeb3,smoke-17,related_note_text,dieu 16,extracted
+3d178642e00dd2a0,smoke-18,subject_title,Subject,extracted
+19140f02c32ca589,smoke-18,topic_title,Topic,extracted
+33416f240c9ec974,smoke-18,chapter_title,Chapter,extracted
+41920d7e180b006a,smoke-18,related_note_text,dieu 17,extracted
+61fa238ba69d42e7,smoke-19,subject_title,Subject,extracted
+3c2a52ac6d78910e,smoke-19,topic_title,Topic,extracted
+ee106e9016577d9b,smoke-19,chapter_title,Chapter,extracted
+2b1362aae108dae9,smoke-19,related_note_text,dieu 18,extracted
+ff33aec453c90bd9,smoke-20,subject_title,Subject,extracted
+ace2293f5346a2f1,smoke-20,topic_title,Topic,extracted
+df6f0ae3d73f2882,smoke-20,chapter_title,Chapter,extracted
+d5acf8d39c794a74,smoke-20,related_note_text,dieu 19,extracted
+a7e0291ac3c88007,smoke-21,subject_title,Subject,extracted
+46bc1d0c17460677,smoke-21,topic_title,Topic,extracted
+239aaea78528b0e4,smoke-21,chapter_title,Chapter,extracted
+3fb13e982af77ee4,smoke-21,related_note_text,dieu 20,extracted
+cdff425795124db9,smoke-22,subject_title,Subject,extracted
+3928546ac9876ca8,smoke-22,topic_title,Topic,extracted
+ace9a24d59cce6e6,smoke-22,chapter_title,Chapter,extracted
+55c6ac5f21f90859,smoke-22,related_note_text,dieu 21,extracted
+83b137e477ea204b,smoke-23,subject_title,Subject,extracted
+bfdea8471d91dc77,smoke-23,topic_title,Topic,extracted
+fedd69a9911af6fe,smoke-23,chapter_title,Chapter,extracted
+ce7dd2495ca53710,smoke-23,related_note_text,dieu 22,extracted
+cb548e44f5f33819,smoke-24,subject_title,Subject,extracted
+38d8bb8098ff87cd,smoke-24,topic_title,Topic,extracted
+8ef9cdd50f8f2a99,smoke-24,chapter_title,Chapter,extracted
+29ebf9fc4271be33,smoke-24,related_note_text,dieu 23,extracted
+71c9738fa1db1698,smoke-25,subject_title,Subject,extracted
+1b69d31a8a6d192e,smoke-25,topic_title,Topic,extracted
+71f3298e3001f094,smoke-25,chapter_title,Chapter,extracted
+3e2816f393ccf5b4,smoke-25,related_note_text,dieu 24,extracted
+52ecb5edac48d052,smoke-26,subject_title,Subject,extracted
+d298e47280f42246,smoke-26,topic_title,Topic,extracted
+7807a6a35c28363c,smoke-26,chapter_title,Chapter,extracted
+baee695809e2e099,smoke-26,related_note_text,dieu 25,extracted
+5bba31ea04dd9712,smoke-27,subject_title,Subject,extracted
+3f6100c0d5f9d0dc,smoke-27,topic_title,Topic,extracted
+012ef8e56f8c7a36,smoke-27,chapter_title,Chapter,extracted
+358cec8e44a74149,smoke-27,related_note_text,dieu 26,extracted
+f16b6073f491c874,smoke-28,subject_title,Subject,extracted
+b3fbcfeafb0f34de,smoke-28,topic_title,Topic,extracted
+126fdaa3c26d1d85,smoke-28,chapter_title,Chapter,extracted
+5dd644e34a4b3714,smoke-28,related_note_text,dieu 27,extracted
+5b80664c7b2a557f,smoke-29,subject_title,Subject,extracted
+e18bb3614a5c9784,smoke-29,topic_title,Topic,extracted
+329acb23ef9faf3d,smoke-29,chapter_title,Chapter,extracted
+9e553b43097a5eb0,smoke-29,related_note_text,dieu 28,extracted

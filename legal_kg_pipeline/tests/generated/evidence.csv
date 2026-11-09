@@ -1,0 +1,12 @@
+fact_id,source_record_id,field,original_text,evidence_type
+1df6b9cdb5d9fd52,r1,subject_title,S,extracted
+9c91e908b8b2feb7,r1,topic_title,T,extracted
+f69c6c1e88bcce9c,r1,chapter_title,C,extracted
+9796a8130746d70a,r1,source_links,https://vbpl.vn/a?ItemID=1#Dieu_1 Luật A được sửa đổi bởi Điều 3 Thông tư B,extracted
+7ef36b35ff288f7e,r1,source_links,https://vbpl.vn/a?ItemID=1#Dieu_1 Luật A được sửa đổi bởi Điều 3 Thông tư B,extracted
+a2fcce3298825add,r1,related_note_text,Điều 1.12.LQ.11.,extracted
+6762ba51eab26bf5,r1,source_note_text,Điều 3 Thông tư B,extracted
+2aa4268a199177f9,r2,subject_title,S2,extracted
+cb187379df7f3eb3,r2,topic_title,T2,extracted
+eb41145efc03dc45,r2,chapter_title,C,extracted
+9654a0c8ced222e9,r2,source_links,https://vbpl.vn/a?ItemID=2#Dieu_1,extracted

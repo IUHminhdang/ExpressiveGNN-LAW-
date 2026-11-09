@@ -1,0 +1,7 @@
+predicate,domain,range
+belongsToChapter,Article,Chapter
+belongsToSubject,Article,Subject
+belongsToTopic,Article,Topic
+hasSource,Article,SourceArticle
+relatedTo,Article,Article
+sourceArticleOf,SourceArticle,SourceDocument

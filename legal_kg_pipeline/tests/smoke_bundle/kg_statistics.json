@@ -1,0 +1,50 @@
+{
+  "records": 30,
+  "entities": 33,
+  "facts": 119,
+  "unresolved": 0,
+  "entities_by_type": {
+    "Article": 30,
+    "Subject": 1,
+    "Topic": 1,
+    "Chapter": 1
+  },
+  "facts_by_predicate": {
+    "belongsToSubject": 30,
+    "belongsToTopic": 30,
+    "belongsToChapter": 30,
+    "relatedTo": 29
+  },
+  "splits": {
+    "background": 90,
+    "train": 25,
+    "valid": 2,
+    "test": 2
+  },
+  "seed": 42,
+  "target_relation": "relatedTo",
+  "directionality": "relatedTo is an observed content-relatedness relation; no inverse or symmetry facts are generated.",
+  "predicate_meanings": {
+    "belongsToTopic": "Article is classified under Topic.",
+    "belongsToSubject": "Article belongs to Subject.",
+    "belongsToChapter": "Article is contained in Chapter.",
+    "relatedTo": "Article is explicitly marked as content-related to another Article; this is not assumed to be a citation or symmetric relation.",
+    "hasSource": "Article is associated with a SourceArticle instrument/reference.",
+    "sourceArticleOf": "SourceArticle is a source instrument/reference described by SourceDocument.",
+    "amendedBy": "SourceArticle annotation indicates modification by another source.",
+    "supplementedBy": "SourceArticle annotation indicates supplementation by another source.",
+    "repealedBy": "SourceArticle annotation indicates repeal by another source."
+  },
+  "citation_resolution": {
+    "missing_record_ids": 0,
+    "duplicate_record_ids": 0,
+    "citations_extracted": 29,
+    "citations_resolved": 29,
+    "citations_ambiguous": 0,
+    "citations_unresolved": 0,
+    "citation_resolution_rate": 1.0,
+    "citation_formats": {
+      "simple": 29
+    }
+  }
+}

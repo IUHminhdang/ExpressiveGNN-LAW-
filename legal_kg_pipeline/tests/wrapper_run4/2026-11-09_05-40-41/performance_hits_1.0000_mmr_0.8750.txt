@@ -1,0 +1,6 @@
+complete
+mmr 0.8750
+hits 1.0000
+
+mmr relatedTo 0.8750
+hits relatedTo 1.0000

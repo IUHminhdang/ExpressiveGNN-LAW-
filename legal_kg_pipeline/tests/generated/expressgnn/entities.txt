@@ -1,0 +1,13 @@
+article:r1
+article:r2
+chapter:s1:t1:C
+chapter:s2:t2:C
+sourcearticle:%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B
+sourcearticle:Lu%E1%BA%ADt%20A%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B
+sourcearticle:vbpl.vn%2Fa%3FItemID%3D1%23Dieu_1
+sourcearticle:vbpl.vn%2Fa%3FItemID%3D2%23Dieu_1
+sourcedocument:Lu%E1%BA%ADt%20A%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20%C4%90i%E1%BB%81u%203%20Th%C3%B4ng%20t%C6%B0%20B
+subject:s1:S
+subject:s2:S2
+topic:t1:T
+topic:t2:T2

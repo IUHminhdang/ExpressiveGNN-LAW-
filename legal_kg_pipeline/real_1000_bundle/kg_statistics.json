@@ -1,0 +1,81 @@
+{
+  "records": 1000,
+  "entities": 3029,
+  "facts": 5184,
+  "unresolved": 439,
+  "entities_by_type": {
+    "Article": 1000,
+    "Subject": 5,
+    "Topic": 1,
+    "Chapter": 28,
+    "SourceArticle": 995,
+    "SourceDocument": 1000
+  },
+  "facts_by_predicate": {
+    "belongsToSubject": 1000,
+    "belongsToTopic": 1000,
+    "belongsToChapter": 1000,
+    "hasSource": 1024,
+    "sourceArticleOf": 1024,
+    "relatedTo": 95,
+    "amendedBy": 22,
+    "supplementedBy": 18,
+    "repealedBy": 1
+  },
+  "splits": {
+    "background": 5089,
+    "train": 76,
+    "valid": 9,
+    "test": 10
+  },
+  "split_ratios": {
+    "background": 0.9816743827160493,
+    "train": 0.014660493827160493,
+    "valid": 0.001736111111111111,
+    "test": 0.0019290123456790122
+  },
+  "evaluation": {
+    "target_relation": "relatedTo",
+    "test_query_count": 10,
+    "article_candidate_count": 1000,
+    "candidate_directions_per_query": 2,
+    "negative_samples_are_pipeline_only": true
+  },
+  "seed": 42,
+  "target_relation": "relatedTo",
+  "directionality": "relatedTo is an observed content-relatedness relation; no inverse or symmetry facts are generated.",
+  "predicate_meanings": {
+    "belongsToTopic": "Article is classified under Topic.",
+    "belongsToSubject": "Article belongs to Subject.",
+    "belongsToChapter": "Article is contained in Chapter.",
+    "relatedTo": "Article is explicitly marked as content-related to another Article; this is not assumed to be a citation or symmetric relation.",
+    "hasSource": "Article is associated with a SourceArticle instrument/reference.",
+    "sourceArticleOf": "SourceArticle is a source instrument/reference described by SourceDocument.",
+    "amendedBy": "SourceArticle annotation indicates modification by another source.",
+    "supplementedBy": "SourceArticle annotation indicates supplementation by another source.",
+    "repealedBy": "SourceArticle annotation indicates repeal by another source."
+  },
+  "citation_resolution": {
+    "missing_record_ids": 0,
+    "duplicate_record_ids": 0,
+    "citations_extracted": 534,
+    "citations_resolved": 95,
+    "citations_ambiguous": 0,
+    "citations_unresolved": 439,
+    "citation_resolution_rate": 0.17790262172284643,
+    "citation_formats": {
+      "compound": 438,
+      "simple": 96
+    }
+  },
+  "export_contract": {
+    "facts_file": "background predicates only",
+    "train_file": "relatedTo positives only",
+    "valid_file": "relatedTo positives only",
+    "test_file": "relatedTo positives only",
+    "rule_heads": [
+      "relatedTo",
+      "relatedTo"
+    ]
+  }
+}

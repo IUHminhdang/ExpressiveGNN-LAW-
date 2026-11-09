@@ -1,0 +1,11 @@
+article:r2	belongsToSubject	subject:s1:B%E1%BB%99%20lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1
+article:r2	belongsToTopic	topic:t1:D%C3%A2n%20s%E1%BB%B1
+article:r2	belongsToChapter	chapter:s1:t1:Ch%C6%B0%C6%A1ng%20I
+article:r2	hasSource	sourcearticle:vbpl.vn%2Fitem%3Fid%3D2
+sourcearticle:vbpl.vn%2Fitem%3Fid%3D2	sourceArticleOf	sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021
+sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021	amendedBy	sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021
+article:r1	belongsToSubject	subject:s1:B%E1%BB%99%20lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1
+article:r1	belongsToTopic	topic:t1:D%C3%A2n%20s%E1%BB%B1
+article:r1	belongsToChapter	chapter:s1:t1:Ch%C6%B0%C6%A1ng%20I
+article:r1	hasSource	sourcearticle:vbpl.vn%2Fitem%3Fid%3D1
+sourcearticle:vbpl.vn%2Fitem%3Fid%3D1	sourceArticleOf	sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020

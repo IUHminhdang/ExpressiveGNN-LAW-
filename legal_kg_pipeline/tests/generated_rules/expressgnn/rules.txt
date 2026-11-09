@@ -1,0 +1,2 @@
+0.5 !belongsToTopic(A, T) v !belongsToTopic(B, T) v relatedTo(A, B)
+0.5 !belongsToSubject(A, S) v !belongsToSubject(B, S) v relatedTo(A, B)

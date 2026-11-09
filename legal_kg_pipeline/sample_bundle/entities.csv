@@ -1,0 +1,12 @@
+entity_id,entity_type,label,source_record_id
+article:r2,Article,r2,r2
+subject:s1:B%E1%BB%99%20lu%E1%BA%ADt%20d%C3%A2n%20s%E1%BB%B1,Subject,s1:Bộ luật dân sự,r2
+topic:t1:D%C3%A2n%20s%E1%BB%B1,Topic,t1:Dân sự,r2
+chapter:s1:t1:Ch%C6%B0%C6%A1ng%20I,Chapter,s1:t1:Chương I,r2
+sourcearticle:vbpl.vn%2Fitem%3Fid%3D2,SourceArticle,vbpl.vn/item?id=2,r2
+sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,SourceDocument,Luật mẫu 01/2020 được sửa đổi bởi Luật mẫu 02/2021,r2
+sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,SourceArticle,Luật mẫu 02/2021,r2
+sourcearticle:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%20b%E1%BB%9Fi%20Lu%E1%BA%ADt%20m%E1%BA%ABu%2002%2F2021,SourceArticle,Luật mẫu 01/2020 được sửa đổi bởi Luật mẫu 02/2021,r2
+article:r1,Article,r1,r1
+sourcearticle:vbpl.vn%2Fitem%3Fid%3D1,SourceArticle,vbpl.vn/item?id=1,r1
+sourcedocument:Lu%E1%BA%ADt%20m%E1%BA%ABu%2001%2F2020,SourceDocument,Luật mẫu 01/2020,r1

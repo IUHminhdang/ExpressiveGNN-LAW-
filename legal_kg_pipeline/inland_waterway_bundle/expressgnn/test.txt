@@ -1,0 +1,11 @@
+article:ab406e62765c0df2	relatedTo	article:14bb146df37e0ff5
+article:14bb146df37e0ff5	relatedTo	article:ab406e62765c0df2
+article:9822e8acd0b9047b	relatedTo	article:1ef4e46c3ac4bd5c
+article:fe059ef294f02760	relatedTo	article:1d9a303d2656c125
+article:1d9a303d2656c125	relatedTo	article:fe059ef294f02760
+article:ab406e62765c0df2	relatedTo	article:4a043420c618c2fb
+article:4a043420c618c2fb	relatedTo	article:ab406e62765c0df2
+article:b8369ac51dd08677	relatedTo	article:1ef4e46c3ac4bd5c
+article:1ef4e46c3ac4bd5c	relatedTo	article:b8369ac51dd08677
+article:1884b9856bab139d	relatedTo	article:3c2fc65422be7b6f
+article:0144a8938ac29142	relatedTo	article:8ca464f7ca7ea1a1

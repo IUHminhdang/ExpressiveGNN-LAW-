@@ -1,0 +1,6 @@
+belongsToChapter
+belongsToSubject
+belongsToTopic
+hasSource
+relatedTo
+sourceArticleOf

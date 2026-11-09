@@ -1,0 +1,9 @@
+amendedBy
+belongsToChapter
+belongsToSubject
+belongsToTopic
+hasSource
+relatedTo
+repealedBy
+sourceArticleOf
+supplementedBy

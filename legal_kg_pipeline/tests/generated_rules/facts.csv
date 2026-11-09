@@ -1,0 +1,13 @@
+fact_id,subject,predicate,object,source_record_id,confidence
+6325a6a96e96dbf2,article:0,relatedTo,article:1,0,0.8
+508315d6388c63f9,article:1,relatedTo,article:0,1,0.8
+2a47e44a47eaf601,article:2,relatedTo,article:1,2,0.8
+81447d332f1c5d89,article:3,relatedTo,article:2,3,0.8
+7bcaec602f114270,article:4,relatedTo,article:3,4,0.8
+0fb21bdaadf64127,article:5,relatedTo,article:4,5,0.8
+913b87b1d502aa96,article:6,relatedTo,article:5,6,0.8
+51824ff27b536bd3,article:7,relatedTo,article:6,7,0.8
+69923e0da68c8aa4,article:8,relatedTo,article:7,8,0.8
+eec540a8dba3d4d5,article:9,relatedTo,article:8,9,0.8
+9cd367d8c06e0978,article:10,relatedTo,article:9,10,0.8
+6e9033b6a62943b0,article:11,relatedTo,article:10,11,0.8

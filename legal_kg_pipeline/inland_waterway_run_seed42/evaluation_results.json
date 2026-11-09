@@ -1,0 +1,6 @@
+{
+  "run_directory": "E:\\Data (Drive)\\IUH\\Grad Thesis\\ExpressiveGNN(LAW)\\legal_kg_pipeline\\inland_waterway_run_seed42\\2026-11-09_07-36-40",
+  "performance_report": "E:\\Data (Drive)\\IUH\\Grad Thesis\\ExpressiveGNN(LAW)\\legal_kg_pipeline\\inland_waterway_run_seed42\\2026-11-09_07-36-40\\performance_hits_0.1364_mmr_0.0331.txt",
+  "mrr": 0.0331,
+  "hits_at_10": 0.1364
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "E:\\Data (Drive)\\IUH\\Grad Thesis\\ExpressiveGNN(LAW)\\legal_kg_pipeline\\tests\\smoke_bundle",
+  "expressgnn": "E:\\Data (Drive)\\IUH\\Grad Thesis\\ExpressiveGNN(LAW)\\ExpressGNN",
+  "epochs": 1,
+  "num_batches": 1,
+  "batchsize": 8,
+  "device": "cpu"
+}
